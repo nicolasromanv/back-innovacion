@@ -1,0 +1,6 @@
+curl -X POST 'https://id.twitch.tv/oauth2/token' \
+-H 'Content-Type: application/x-www-form-urlencoded' \
+-d 'client_id=rkml50dibr3y5xa3hidmk4yfh5qxxx&client_secret=0lmrknqjaewuat690u26atri507s51&grant_type=client_credentials'
+
+
+{"access_token":"qui17ip45k52pmprlr4zqmp9atr81t","expires_in":5271437,"token_type":"bearer"}
